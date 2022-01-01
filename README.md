@@ -2,10 +2,10 @@
 ![Logo](https://github.com/SereJaPWNZ/Test_artifact/blob/master/assert/logo.png)
 
 ### Checklist Web Form
-[Link to checklist](https://docs.google.com/spreadsheets/d/1seaW2pv1X3BU62X8-TiZnjAkln56IapsEGkeFEENWC0/edit?usp=sharing "Checklist")
+[Link to checklist](https://docs.google.com/spreadsheets/d/1seaW2pv1X3BU62X8-TiZnjAkln56IapsEGkeFEENWC0/edit#gid=2010533091&range=A1:D1 "Checklist")
 
 ### Bugs Web Form
-[Link to Bugs](https://docs.google.com/spreadsheets/d/1seaW2pv1X3BU62X8-TiZnjAkln56IapsEGkeFEENWC0/edit?usp=sharing "Bugs")
+[Link to Bugs](https://docs.google.com/spreadsheets/d/1seaW2pv1X3BU62X8-TiZnjAkln56IapsEGkeFEENWC0/edit#gid=282716924&range=A2 "Bugs")
 
 ### Checklist Mobile
 [Link to Checklist](https://docs.google.com/spreadsheets/d/1lqCutR75VxYNkF0d-pYre5aIiB1WGXu7bysqIToeuzQ/edit?usp=sharing "Checklist")
