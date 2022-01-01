@@ -10,11 +10,11 @@
 ### Checklist Mobile
 [Link to Checklist](https://docs.google.com/spreadsheets/d/1lqCutR75VxYNkF0d-pYre5aIiB1WGXu7bysqIToeuzQ/edit?usp=sharing "Checklist")
 
-### Checklist Mobile App "To Do List"
-[Link to Checklist](https://docs.google.com/spreadsheets/d/1TGp0IwHQaBpOuydtsBlsYvbYWH2HUjylMhzTgfphJ6w/edit?usp=sharing "Checklist App 'To Do List'")
+### Checklists Mobile App "To Do List"(Smoke, Regression, End-to-end)
+[Link to Checklists](https://docs.google.com/spreadsheets/d/1TGp0IwHQaBpOuydtsBlsYvbYWH2HUjylMhzTgfphJ6w/edit?usp=sharing "Checklists App 'To Do List'")
 
 ### Bugs Mobile App "To Do List"
-[Link to Bugs](https://docs.google.com/spreadsheets/d/1TGp0IwHQaBpOuydtsBlsYvbYWH2HUjylMhzTgfphJ6w/edit?usp=sharing "Bugs")
+[Link to Bugs](https://docs.google.com/spreadsheets/d/1TGp0IwHQaBpOuydtsBlsYvbYWH2HUjylMhzTgfphJ6w/edit#gid=2103082742 "Bugs")
 
 ## 📫 How to reach me
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://t.me/res1stpwnz)
